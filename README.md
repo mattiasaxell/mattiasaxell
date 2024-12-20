@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mattiasaxell.com](https://mattiasaxell.com)
 
-- 📝 I regularly write articles on [[https://mattiasaxell.com/post/](https://mattiasaxell.com/en/#news)]([https://mattiasaxell.com/post/](https://mattiasaxell.com/en/#news))
+- 📝 I regularly write articles on [https://mattiasaxell.com/post/](https://mattiasaxell.com/en/#news)(https://mattiasaxell.com/post/](https://mattiasaxell.com/en/#news)
 
 - 💬 Ask me about **datasharing, metadata, open data, private data sharing, privacy**
 
